@@ -1,0 +1,2 @@
+NAME				CATEGORY				DESCRIPTION				ADDRESS				MOBILE				NO
+ram				tourism				buss,cars,accomdation				GOA				123569874				ram@gmail.com

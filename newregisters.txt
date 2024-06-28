@@ -1,0 +1,4 @@
+sanjay				123				male				123659874				sanjay@gmail.com				hyderabad
+suraj				12345				M				8965741235				suraj@gmail.com				Up
+fizan				faizan				M				657890342				faizen@gmail.com				nizambad
+kishore				963				M				9658741235				kishore@gmail.com				chittur
